@@ -1,0 +1,19 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+D:\Github\Code-Libraries\CodeLibraries\8051_starter_USB\LCD\Lcd_Scroll\Lcd_Scroll.uvproj
+Project File Date:  05/22/2015
+
+<h2>Output:</h2>
+Build target 'Target 1'
+compiling delay.c...
+compiling main.c...
+compiling lcd.c...
+linking...
+*** WARNING L16: UNCALLED SEGMENT, IGNORED FOR OVERLAY PROCESS
+    SEGMENT: ?PR?_DELAY_SEC?DELAY
+Program Size: data=28.0 xdata=0 code=933
+creating hex file from "Lcd_Scroll"...
+"Lcd_Scroll" - 0 Error(s), 1 Warning(s).
